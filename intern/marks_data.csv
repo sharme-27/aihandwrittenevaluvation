@@ -1,0 +1,13 @@
+Register Number,Marks,Subject,Status
+student004,32,,
+student005,32,,
+student006,32,,
+student007,30,English,Pass
+student007,5,Science,Fail
+student007,0,Maths,Fail
+student008,30,subject1,Pass
+student008,15,subject2,Fail
+student008,45,subject3,Pass
+student010,30,subject1,Pass
+student010,45,subject2,Pass
+student010,15,subject3,Fail

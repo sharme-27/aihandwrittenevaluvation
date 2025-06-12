@@ -1,0 +1,3 @@
+RegisterNo,Marks
+"Artificial Intelligence (AI) refers to intelligent machines that perform tasks requiring human intelligence, such as visual perception, speech recognition, and decision-making. Machine Learning (ML), a subset of AI, enables systems to learn from data without being explicitly programmed. ML includes supervised learning, where models learn from labeled data for prediction or classification, and unsupervised learning, which discovers patterns in unlabeled data. A further subset is Deep Learning, which uses artificial neural networks with multiple layers to process complex data representations. Neural networks are also used in regression tasks, predicting continuous values from input data.",100
+student001,100,Pass
